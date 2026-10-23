@@ -22,11 +22,14 @@ An operational People & Supply Chain Analytics project evaluating 814 days of co
 
 ### 1. Executive Operations Overview
 High-level volume trajectory, revenue KPIs, and morning vs. evening batch split ($63.9\%\text{ AM} / 36.1\%\text{ PM}$).
-![Executive Overview](01_executive_overview.png)
+<img width="1791" height="1023" alt="02_quality_pricing png" src="https://github.com/user-attachments/assets/cc913f11-6676-42b0-9f1d-8f509a0c8f02" />
+<img width="1798" height="1008" alt="01_executive_overview png" src="https://github.com/user-attachments/assets/9e7d9362-6991-4f4c-af4b-43bf0cdc210e" />
+
 
 ### 2. Quality-Yield Arbitrage & What-If Pricing Model
 Empirical comparison of AM vs. PM butterfat percentages across every month, supported by a dynamic What-If simulation slider modeling price adjustment elasticity.
-![Quality and Pricing Analysis](02_quality_pricing.png)
+![Uploading 02_quality_pricing.png.png…]()
+
 
 ---
 
